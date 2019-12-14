@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.175.84.157:8081/repository/MavenProject-Practice-releases/</url>
+	      <name>MavnenProject-Practice-release</name>
+	      <url>http://54.175.84.157:8081/repository/MavenProject-Practice-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.175.84.157:8081/repository/MavenProject-Practice-Snapshots/</url>
+	      <name>MavenProject-Practice-Snapshot </name>
+	      <url>http://54.175.84.157:8081/repository/MavenProject-Practice-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

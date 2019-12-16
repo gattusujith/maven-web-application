@@ -1,4 +1,4 @@
-node('flipkart-node')
+node
 {
 	echo "GitHub BranhName ${env.BRANCH_NAME}"
 	 echo  "Jenkins Job Number ${env.BUILD_NUMBER}"
@@ -17,11 +17,11 @@ node('flipkart-node')
   
   def mavenHome = tool name: "maven3.6.2"
   
-  stage('CheckoutCode')
+  /*stage('CheckoutCode')
   {
    git branch: 'development', credentialsId: 'c68e5748-bf4d-4a14-a25d-2af5c3efe5a0', url: 'https://github.com/MithunTechnologiesDevOps/maven-web-application.git'
   echo "stage is over"
- }
+ }*/
   
   /*
   stage('Build')

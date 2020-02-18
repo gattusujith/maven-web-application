@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	      <name>Java-web-app </name>
+	      <url>http://13.233.225.91:8081/repository/java-web-app/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

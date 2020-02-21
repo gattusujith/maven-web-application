@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.138.204:9980/mithuntechnologies/repository/paytm-release/</url>
+	      <name>java-web-app Repository</name>
+	      <url>http://13.232.80.199:8081/repository/java-web-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Java-web-app</name>
-	      <url>http://13.232.80.199:8081/repository/Java-web-app/</url>
+	      <name>Java-web-app Repository</name>
+	      <url>http://13.232.80.199:8081/repository/java-web-app-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

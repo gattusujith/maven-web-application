@@ -100,7 +100,7 @@
 	
 	<distributionManagement>
 	
-	    <releasesRepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>java-web-app Repository</name>
 	      <url>http://3.110.120.105:8081/repository/maven-releases/</url>

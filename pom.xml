@@ -102,13 +102,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>java-web-app Repository</name>
+	      <name>maven-web-app Repository</name>
 	      <url>http://35.154.148.99:8081/repository/wallmart-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Java-web-app Repository</name>
+	      <name>maven-web-app Repository</name>
               <url>http://35.154.148.99:8081/repository/wallmart-snapshots/</url>
 	    </snapshotRepository>
 	    

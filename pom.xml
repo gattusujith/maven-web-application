@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>MavnenProject-Practice-release</name>
-	      <url>http://13.232.238.230:8081/repository/maven-releases/</url>
+	      <url>http://13.127.55.244:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>MavenProject-Practice-Snapshot</name>
-	      <url>http://13.232.238.230:8081/repository/maven-snapshots/</url>
+	      <url>http://13.127.55.244:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
